@@ -1,0 +1,13 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:granite",
+    "2": "minecraft:terracotta",
+    "3": "minecraft:jungle_planks",
+    "4": "minecraft:jungle_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]",
+    "5": "minecraft:jungle_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]",
+    "6": "minecraft:jungle_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]",
+    "7": "minecraft:jungle_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]",
+    "8": "minecraft:jungle_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
+    "9": "minecraft:jungle_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
+    "10": "minecraft:stone_bricks"
+}

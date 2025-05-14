@@ -1,0 +1,7 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:oak_log[axis=y]",
+    "2": "minecraft:spruce_planks",
+    "3": "minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
+    "4": "minecraft:stone_bricks"
+}

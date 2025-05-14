@@ -1,0 +1,11 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:stone_bricks",
+    "2": "minecraft:stripped_spruce_wood[axis=y]",
+    "3": "minecraft:stone",
+    "4": "minecraft:spruce_door[facing=west,half=lower,hinge=right,open=true,powered=false]",
+    "5": "minecraft:spruce_door[facing=west,half=upper,hinge=right,open=true,powered=false]",
+    "6": "minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
+    "7": "minecraft:spruce_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false]",
+    "8": "minecraft:spruce_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+}

@@ -1,0 +1,8 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:stripped_jungle_wood[axis=x]",
+    "2": "minecraft:white_terracotta",
+    "3": "minecraft:smooth_sandstone",
+    "4": "minecraft:spruce_slab[type=top,waterlogged=false]",
+    "5": "minecraft:stone_bricks"
+}

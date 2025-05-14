@@ -1,0 +1,11 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:mushroom_stem[down=true,east=true,north=true,south=false,up=false,west=true]",
+    "2": "minecraft:mushroom_stem[down=true,east=false,north=true,south=true,up=true,west=false]",
+    "3": "minecraft:mushroom_stem[down=true,east=true,north=true,south=true,up=false,west=true]",
+    "4": "minecraft:mushroom_stem[down=true,east=true,north=true,south=true,up=true,west=true]",
+    "5": "minecraft:white_wool",
+    "6": "minecraft:mushroom_stem[down=true,east=false,north=true,south=true,up=false,west=true]",
+    "7": "minecraft:scaffolding[bottom=false,distance=0,waterlogged=false]",
+    "8": "minecraft:stone_bricks"
+}

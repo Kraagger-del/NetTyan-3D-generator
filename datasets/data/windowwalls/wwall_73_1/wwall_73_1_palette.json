@@ -1,0 +1,7 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:mossy_stone_bricks",
+    "2": "minecraft:stone_bricks",
+    "3": "minecraft:stone",
+    "4": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+}

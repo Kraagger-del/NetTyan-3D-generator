@@ -1,0 +1,10 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:stripped_spruce_log[axis=y]",
+    "2": "minecraft:white_concrete_powder",
+    "3": "minecraft:diorite",
+    "4": "minecraft:bone_block[axis=y]",
+    "5": "minecraft:stripped_spruce_log[axis=z]",
+    "6": "minecraft:jungle_slab[type=top,waterlogged=false]",
+    "7": "minecraft:stone_bricks"
+}

@@ -1,0 +1,15 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:spruce_planks",
+    "2": "minecraft:diorite",
+    "3": "minecraft:white_concrete_powder",
+    "4": "minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
+    "5": "minecraft:spruce_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]",
+    "6": "minecraft:spruce_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]",
+    "7": "minecraft:granite_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=none]",
+    "8": "minecraft:granite_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=none]",
+    "9": "minecraft:granite_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=none]",
+    "10": "minecraft:granite_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=none]",
+    "11": "minecraft:jungle_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
+    "12": "minecraft:stone_bricks"
+}
