@@ -1,0 +1,18 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:mushroom_stem[down=true,east=true,north=true,south=true,up=true,west=true]",
+    "2": "minecraft:stripped_spruce_wood[axis=y]",
+    "3": "minecraft:mushroom_stem[down=true,east=true,north=true,south=true,up=true,west=false]",
+    "4": "minecraft:mushroom_stem[down=true,east=false,north=true,south=true,up=true,west=true]",
+    "5": "minecraft:white_wool",
+    "6": "minecraft:mushroom_stem[down=false,east=true,north=true,south=true,up=true,west=false]",
+    "7": "minecraft:mushroom_stem[down=false,east=true,north=true,south=true,up=false,west=false]",
+    "8": "minecraft:mushroom_stem[down=false,east=false,north=true,south=true,up=false,west=true]",
+    "9": "minecraft:stripped_spruce_wood[axis=x]",
+    "10": "minecraft:oak_door[facing=south,half=lower,hinge=left,open=false,powered=false]",
+    "11": "minecraft:oak_door[facing=south,half=upper,hinge=left,open=false,powered=false]",
+    "12": "minecraft:oak_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]",
+    "13": "minecraft:spruce_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false]",
+    "14": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=false]",
+    "15": "minecraft:stone_bricks"
+}

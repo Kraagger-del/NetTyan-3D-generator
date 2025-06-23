@@ -1,0 +1,9 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:smooth_sandstone",
+    "2": "minecraft:white_terracotta",
+    "3": "minecraft:stripped_spruce_log[axis=y]",
+    "4": "minecraft:bone_block[axis=y]",
+    "5": "minecraft:stripped_spruce_log[axis=z]",
+    "6": "minecraft:stone_bricks"
+}

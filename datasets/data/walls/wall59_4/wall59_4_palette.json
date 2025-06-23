@@ -1,0 +1,9 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:stripped_spruce_wood[axis=y]",
+    "2": "minecraft:stone",
+    "3": "minecraft:stone_bricks",
+    "4": "minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
+    "5": "minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
+    "6": "minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+}

@@ -1,0 +1,12 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:stripped_jungle_wood[axis=z]",
+    "2": "minecraft:stripped_spruce_log[axis=y]",
+    "3": "minecraft:white_terracotta",
+    "4": "minecraft:bone_block[axis=y]",
+    "5": "minecraft:smooth_sandstone",
+    "6": "minecraft:stripped_spruce_log[axis=x]",
+    "7": "minecraft:oak_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]",
+    "8": "minecraft:spruce_slab[type=top,waterlogged=false]",
+    "9": "minecraft:stone_bricks"
+}

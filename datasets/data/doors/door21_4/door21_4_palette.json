@@ -1,0 +1,7 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:calcite",
+    "2": "minecraft:smooth_quartz",
+    "3": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]",
+    "4": "minecraft:stone_bricks"
+}

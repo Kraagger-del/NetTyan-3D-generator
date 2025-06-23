@@ -1,0 +1,8 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:diorite",
+    "2": "minecraft:stripped_spruce_log[axis=x]",
+    "3": "minecraft:spruce_door[facing=south,half=lower,hinge=left,open=false,powered=false]",
+    "4": "minecraft:spruce_door[facing=south,half=upper,hinge=left,open=false,powered=false]",
+    "5": "minecraft:stone_bricks"
+}

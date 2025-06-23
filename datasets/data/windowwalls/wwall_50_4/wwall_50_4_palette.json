@@ -1,0 +1,14 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:diorite",
+    "2": "minecraft:jungle_planks",
+    "3": "minecraft:stripped_spruce_wood[axis=y]",
+    "4": "minecraft:stripped_spruce_wood[axis=x]",
+    "5": "minecraft:terracotta",
+    "6": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]",
+    "7": "minecraft:oak_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]",
+    "8": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]",
+    "9": "minecraft:jungle_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
+    "10": "minecraft:jungle_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
+    "11": "minecraft:stone_bricks"
+}

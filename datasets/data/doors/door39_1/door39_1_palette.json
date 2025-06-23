@@ -1,0 +1,13 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:stripped_spruce_wood[axis=y]",
+    "2": "minecraft:diorite",
+    "3": "minecraft:spruce_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]",
+    "4": "minecraft:spruce_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]",
+    "5": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]",
+    "6": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]",
+    "7": "minecraft:diorite_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
+    "8": "minecraft:diorite_slab[type=top,waterlogged=false]",
+    "9": "minecraft:diorite_stairs[facing=south,half=top,shape=straight,waterlogged=false]",
+    "10": "minecraft:stone_bricks"
+}

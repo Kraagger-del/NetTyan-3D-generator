@@ -1,0 +1,13 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:stone_bricks",
+    "2": "minecraft:andesite",
+    "3": "minecraft:mossy_cobblestone",
+    "4": "minecraft:stone",
+    "5": "minecraft:cobblestone",
+    "6": "minecraft:light_gray_wool",
+    "7": "minecraft:light_gray_concrete_powder",
+    "8": "minecraft:dark_oak_planks",
+    "9": "minecraft:andesite_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
+    "10": "minecraft:andesite_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=false]"
+}
