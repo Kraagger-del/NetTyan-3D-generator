@@ -1,0 +1,7 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:andesite",
+    "2": "minecraft:oak_door[facing=south,half=lower,hinge=right,open=false,powered=false]",
+    "3": "minecraft:oak_door[facing=south,half=upper,hinge=right,open=false,powered=false]",
+    "4": "minecraft:stone_bricks"
+}

@@ -1,0 +1,14 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:stripped_spruce_wood[axis=y]",
+    "2": "minecraft:stone",
+    "3": "minecraft:stone_bricks",
+    "4": "minecraft:mossy_stone_bricks",
+    "5": "minecraft:stripped_spruce_wood[axis=x]",
+    "6": "minecraft:dark_oak_planks",
+    "7": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]",
+    "8": "minecraft:oak_door[facing=north,half=lower,hinge=right,open=true,powered=false]",
+    "9": "minecraft:oak_door[facing=north,half=upper,hinge=right,open=true,powered=false]",
+    "10": "minecraft:lantern[hanging=true,waterlogged=false]",
+    "11": "minecraft:stone_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+}

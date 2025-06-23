@@ -1,0 +1,8 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:stripped_spruce_log[axis=y]",
+    "2": "minecraft:white_terracotta",
+    "3": "minecraft:spruce_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false]",
+    "4": "minecraft:spruce_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false]",
+    "5": "minecraft:stone_bricks"
+}

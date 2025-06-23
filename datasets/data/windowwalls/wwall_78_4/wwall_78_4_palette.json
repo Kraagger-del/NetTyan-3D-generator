@@ -1,0 +1,7 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:smooth_quartz",
+    "2": "minecraft:calcite",
+    "3": "minecraft:spruce_fence[east=true,north=false,south=false,waterlogged=false,west=true]",
+    "4": "minecraft:stone_bricks"
+}

@@ -1,0 +1,5 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:mushroom_stem[down=true,east=true,north=true,south=true,up=true,west=true]",
+    "2": "minecraft:stone_bricks"
+}

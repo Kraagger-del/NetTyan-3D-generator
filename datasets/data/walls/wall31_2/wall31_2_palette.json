@@ -1,0 +1,6 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:stone",
+    "2": "minecraft:stone_bricks",
+    "3": "minecraft:stone_brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+}

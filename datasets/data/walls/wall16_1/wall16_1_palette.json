@@ -1,0 +1,12 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:stripped_spruce_log[axis=y]",
+    "2": "minecraft:dripstone_block",
+    "3": "minecraft:dead_bubble_coral_block",
+    "4": "minecraft:dead_fire_coral_block",
+    "5": "minecraft:mossy_stone_bricks",
+    "6": "minecraft:white_terracotta",
+    "7": "minecraft:tuff",
+    "8": "minecraft:stripped_spruce_log[axis=z]",
+    "9": "minecraft:stone_bricks"
+}

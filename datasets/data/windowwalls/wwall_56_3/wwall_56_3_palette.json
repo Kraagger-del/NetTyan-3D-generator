@@ -1,0 +1,11 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:stripped_spruce_log[axis=y]",
+    "2": "minecraft:stripped_oak_log[axis=z]",
+    "3": "minecraft:white_concrete_powder",
+    "4": "minecraft:diorite",
+    "5": "minecraft:stripped_spruce_log[axis=z]",
+    "6": "minecraft:oak_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]",
+    "7": "minecraft:jungle_slab[type=top,waterlogged=false]",
+    "8": "minecraft:stone_bricks"
+}

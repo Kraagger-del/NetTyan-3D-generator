@@ -1,0 +1,13 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:stone_bricks",
+    "2": "minecraft:tuff",
+    "3": "minecraft:stripped_spruce_log[axis=y]",
+    "4": "minecraft:stripped_spruce_log[axis=x]",
+    "5": "minecraft:stripped_spruce_wood[axis=x]",
+    "6": "minecraft:white_terracotta",
+    "7": "minecraft:stripped_jungle_wood[axis=x]",
+    "8": "minecraft:stripped_spruce_log[axis=z]",
+    "9": "minecraft:spruce_planks",
+    "10": "minecraft:stripped_spruce_wood[axis=z]"
+}

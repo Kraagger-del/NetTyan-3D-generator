@@ -1,0 +1,10 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:light_gray_concrete",
+    "2": "minecraft:stone",
+    "3": "minecraft:diorite",
+    "4": "minecraft:stripped_spruce_log[axis=y]",
+    "5": "minecraft:stripped_spruce_log[axis=x]",
+    "6": "minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
+    "7": "minecraft:stone_bricks"
+}

@@ -1,0 +1,13 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:stripped_jungle_wood[axis=y]",
+    "2": "minecraft:stripped_jungle_wood[axis=z]",
+    "3": "minecraft:spruce_planks",
+    "4": "minecraft:smooth_sandstone",
+    "5": "minecraft:stripped_spruce_log[axis=z]",
+    "6": "minecraft:stripped_spruce_log[axis=x]",
+    "7": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]",
+    "8": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]",
+    "9": "minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
+    "10": "minecraft:stone_bricks"
+}

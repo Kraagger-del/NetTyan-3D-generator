@@ -1,0 +1,15 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:stripped_spruce_log[axis=y]",
+    "2": "minecraft:bone_block[axis=y]",
+    "3": "minecraft:diorite",
+    "4": "minecraft:spruce_door[facing=south,half=lower,hinge=right,open=true,powered=false]",
+    "5": "minecraft:spruce_door[facing=south,half=lower,hinge=left,open=true,powered=false]",
+    "6": "minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
+    "7": "minecraft:spruce_door[facing=south,half=upper,hinge=right,open=true,powered=false]",
+    "8": "minecraft:spruce_door[facing=south,half=upper,hinge=left,open=true,powered=false]",
+    "9": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]",
+    "10": "minecraft:jungle_button[face=wall,facing=south,powered=false]",
+    "11": "minecraft:jungle_slab[type=top,waterlogged=false]",
+    "12": "minecraft:stone_bricks"
+}

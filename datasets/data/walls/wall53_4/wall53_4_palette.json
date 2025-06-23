@@ -1,0 +1,10 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:stripped_spruce_wood[axis=y]",
+    "2": "minecraft:mossy_stone_bricks",
+    "3": "minecraft:stone",
+    "4": "minecraft:stone_bricks",
+    "5": "minecraft:dark_oak_planks",
+    "6": "minecraft:stripped_spruce_wood[axis=x]",
+    "7": "minecraft:stripped_spruce_wood[axis=z]"
+}

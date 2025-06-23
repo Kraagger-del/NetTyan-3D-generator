@@ -1,0 +1,11 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:stone_bricks",
+    "2": "minecraft:spruce_planks",
+    "3": "minecraft:birch_planks",
+    "4": "minecraft:end_stone",
+    "5": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]",
+    "6": "minecraft:oak_door[facing=south,half=lower,hinge=left,open=false,powered=false]",
+    "7": "minecraft:oak_door[facing=south,half=upper,hinge=left,open=false,powered=false]",
+    "8": "minecraft:oak_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]"
+}
