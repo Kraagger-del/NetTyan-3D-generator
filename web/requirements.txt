@@ -1,3 +1,4 @@
-flask==2.0.1
+flask==2.3.3
+werkzeug==2.0.3
 numpy==1.24.3
 nbtlib==2.0.4
