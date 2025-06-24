@@ -1,0 +1,13 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:andesite",
+    "2": "minecraft:spruce_planks",
+    "3": "minecraft:oak_door[facing=east,half=lower,hinge=right,open=false,powered=false]",
+    "4": "minecraft:oak_door[facing=east,half=upper,hinge=right,open=false,powered=false]",
+    "5": "minecraft:stone_brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
+    "6": "minecraft:stone_brick_slab[type=top,waterlogged=false]",
+    "7": "minecraft:stone_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]",
+    "8": "minecraft:spruce_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]",
+    "9": "minecraft:spruce_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]",
+    "10": "minecraft:stone_bricks"
+}

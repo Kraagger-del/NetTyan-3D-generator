@@ -5,9 +5,34 @@ NetTyan-3D-generator — это проект, направленный на со
 
 ## Установка
 
+1. Клонируйте репозиторий:
+   ```bash
+   git clone https://github.com/Kraagger-del/NetTyan-3D-generator.git
 
-##Требования
+2. Создайте виртуальное окружение и активируйте его:
+   python -m venv venv
+   source venv/bin/activate  # Для Windows: venv\Scripts\activate
 
+3. Установите зависимости:
+   pip install -r requirements.txt
+
+
+## Использование pre-commit
+Для автоматической проверки кода с помощью линтеров (ruff) и форматеров (black) перед коммитом выполните следующее:
+
+1. Установите pre-commit:
+   pip install pre-commit
+
+2. Инициализируйте хуки в репозитории:
+   pre-commit install
+
+3. Каждый раз при коммите хуки будут запускаться автоматически. Для ручной проверки нужно выполнить:
+   pre-commit run --all-files
+
+## Использование
+   (В разработке)
+
+## Требования
     Python 3.8+
     Установленные линтеры и форматеры: ruff, black
     pre-commit для автоматических проверок

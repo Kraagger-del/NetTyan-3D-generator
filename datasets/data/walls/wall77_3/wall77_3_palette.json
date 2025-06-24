@@ -1,0 +1,12 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:oak_log[axis=y]",
+    "2": "minecraft:oak_log[axis=z]",
+    "3": "minecraft:birch_planks",
+    "4": "minecraft:smooth_sandstone",
+    "5": "minecraft:stripped_spruce_log[axis=y]",
+    "6": "minecraft:bone_block[axis=y]",
+    "7": "minecraft:stripped_spruce_log[axis=z]",
+    "8": "minecraft:dark_oak_planks",
+    "9": "minecraft:stone_bricks"
+}

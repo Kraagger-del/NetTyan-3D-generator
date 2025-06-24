@@ -1,0 +1,8 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:smooth_quartz",
+    "2": "minecraft:stripped_spruce_wood[axis=y]",
+    "3": "minecraft:calcite",
+    "4": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=false]",
+    "5": "minecraft:stone_bricks"
+}

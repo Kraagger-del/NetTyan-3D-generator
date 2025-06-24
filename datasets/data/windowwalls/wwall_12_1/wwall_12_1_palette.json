@@ -1,0 +1,10 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:white_terracotta",
+    "2": "minecraft:stripped_spruce_wood[axis=y]",
+    "3": "minecraft:sand",
+    "4": "minecraft:stripped_spruce_wood[axis=z]",
+    "5": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]",
+    "6": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]",
+    "7": "minecraft:stone_bricks"
+}

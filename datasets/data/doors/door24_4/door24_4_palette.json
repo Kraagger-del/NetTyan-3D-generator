@@ -1,0 +1,7 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:stone",
+    "2": "minecraft:stone_bricks",
+    "3": "minecraft:spruce_door[facing=north,half=lower,hinge=right,open=true,powered=false]",
+    "4": "minecraft:spruce_door[facing=north,half=upper,hinge=right,open=true,powered=false]"
+}

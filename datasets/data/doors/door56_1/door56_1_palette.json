@@ -1,0 +1,10 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:stone",
+    "2": "minecraft:stone_bricks",
+    "3": "minecraft:tuff",
+    "4": "minecraft:dead_fire_coral_block",
+    "5": "minecraft:dripstone_block",
+    "6": "minecraft:stone_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
+    "7": "minecraft:stone_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+}

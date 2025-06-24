@@ -1,0 +1,8 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:smooth_quartz",
+    "2": "minecraft:calcite",
+    "3": "minecraft:granite_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
+    "4": "minecraft:granite_stairs[facing=south,half=top,shape=straight,waterlogged=false]",
+    "5": "minecraft:stone_bricks"
+}

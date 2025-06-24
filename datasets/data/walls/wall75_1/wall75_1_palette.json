@@ -1,0 +1,11 @@
+{
+    "0": "minecraft:air",
+    "1": "minecraft:tuff",
+    "2": "minecraft:snow_block",
+    "3": "minecraft:stripped_spruce_log[axis=z]",
+    "4": "minecraft:smooth_sandstone",
+    "5": "minecraft:bone_block[axis=y]",
+    "6": "minecraft:bone_block[axis=z]",
+    "7": "minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
+    "8": "minecraft:stone_bricks"
+}
